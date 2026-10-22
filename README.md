@@ -44,7 +44,11 @@ The project involved building the user interface, implementing item management a
 
 ## Application Screenshots
 
-Screenshots of the published iOS application will be added here.
+Explore Puti's simple interface for saving and finding everyday belongings.
+
+| Home & Search | Add an Item | Item Details |
+|:---:|:---:|:---:|
+| <img src="puti-home.PNG" alt="Puti home screen showing saved items and search" width="220"> | <img src="puti-add-item.PNG" alt="Puti add item screen for entering a name, location, photo, and notes" width="220"> | <img src="puti-item-details.PNG" alt="Puti item details screen" width="220"> |
 
 ## App Availability
 
